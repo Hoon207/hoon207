@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
-![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient)
 
 
 # Hi there 제목1 👋
