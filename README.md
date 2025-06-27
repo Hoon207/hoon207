@@ -28,5 +28,13 @@
 ***이텔릭,볼드***
 ~~취소선~~~ ~~\
 
-// 
-줄바꿈코드<br>
+//7. 링크{Link} <br>
+Link1: (http://iamhooon.co.kr, '닷홈 바로가기')<br>
+
+Link2: (http://iamhooon.naver.com,'바로가기')<br
+Link3: (http://iamhooon.co.kr, '닷홈 바로가기')<br
+
+//8. 이모티콘  이모지 삽입 단축키 윈도우 로고키 + 세미콜론;
+//9. 이미지삽입 !기호 사용
+![엑박시 보여질 이미지명](이미지주소)(링크주소)
+![top_logo](https://harimpetfood.com/SkinImg/top_logo.gif)
