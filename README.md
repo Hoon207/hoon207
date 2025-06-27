@@ -38,3 +38,18 @@ Link3: (http://iamhooon.co.kr, '닷홈 바로가기')<br
 //9. 이미지삽입 !기호 사용
 ![엑박시 보여질 이미지명](이미지주소)(링크주소)
 ![top_logo](https://harimpetfood.com/SkinImg/top_logo.gif)
+
+//10. 테이블삽입
+
+title1 | title2
+-|-
+content1 | content2
+content3 | content4
+
+<table>
+ <thead>
+  <tr>
+   <th>셀제목</th><th>셀제목</th>
+  </tr>
+ </thead>
+</table>
