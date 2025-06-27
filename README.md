@@ -33,7 +33,7 @@
 ~~취소선~~~ ~~\
 
 //7. 링크{Link} <br>
-Link1: (http://iamhooon.co.kr, '닷홈 바로가기')<br>
+[닷홈 바로가기](http://iamhooon.dothome.co.kr)
 
 Link2: (http://iamhooon.naver.com,'바로가기')<br
 Link3: (http://iamhooon.co.kr, '닷홈 바로가기')<br
