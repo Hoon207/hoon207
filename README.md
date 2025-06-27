@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Welcome%20to%20My%20Page&textColor=FFFFFF&height=300)
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Honghoon Cho]
 ## 웹퍼블리셔 & 프론트엔드 개발자 지망생
 
 ---
