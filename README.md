@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Welcome%20to%20My%20Page&textColor=000000)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Welcome%20to%20My%20Page&textColor=FFFFFF&height=200)
+
 
 
 # Hi there 제목1 👋
